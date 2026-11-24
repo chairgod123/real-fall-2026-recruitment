@@ -107,12 +107,12 @@ total  = sum of points
 
 | Component | Raw score | Max |
 |---|---|---|
-| DWA | (professional + 3) + (social + 3), averaged over actives | 25 |
+| DWA | (professional + 3) + (social + 3), averaged over actives | 10 |
 | Open rush | Same formula, averaged over all open rush events | 10 |
-| Case Comp observer | Score from the sheet | 15 |
-| Case Comp judge, individual | Score from the sheet | 10 |
-| Case Comp judge, team | Team's score, assigned through the `Team` column | 5 |
-| Final interview | Sum of the `Score` columns, averaged over interviewers | 35 |
+| Case Comp observer | Score from the sheet | 30 |
+| Case Comp judge, individual | Score from the sheet | 15 |
+| Case Comp judge, team | Team's score, assigned through the `Team` column | 15 |
+| Final interview | Sum of the `Score` columns, averaged over interviewers | 30 |
 
 The interview is four criteria scored 1 to 5 plus a resume deep dive scored 1 to 10.
 
